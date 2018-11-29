@@ -1,4 +1,4 @@
-```javascript
+
 create database 0412002940_lokaverkefni;
 use  0412002940_lokaverkefni;
 
@@ -159,4 +159,3 @@ values
 	(1009,54324,3.5,'2009-03-05',null,3),
 	(1001,34366,3.5,'2009-03-04','2009-03-09',3)
 ;
-```
